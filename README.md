@@ -4,6 +4,8 @@
 
 A repository that contains links to various OPS-SAT projects being undertaken at Swansea University. It also contains links to useful information.
 
+## Intro Talk
+An intro talk on some of our ideas can be viewed here. [[here](https://www.youtube.com/watch?v=Buv8cqYmaug&t=728s)].
 
 ## OPS-SAT Technical Documentation
 * [Official Payload Specification](https://ideas.esa.int/apps/IMT/UploadedFiles/00/f_d4aa96ccd0c7141ac4d10e072fb44d38/OPSSAT-SYS-PAY-ExperimenterICD_v0.5.pdf?v=1624349519)
