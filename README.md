@@ -23,7 +23,7 @@ To SSH in you'll need to either be on the VPN or use the mutli-factor authentifi
 
 ### Via the VPN
 
-Connect to the Swansea University VPN using the _lovely_ PulseSecure software: https://vpn.swansea.ac.uk/
+Connect to the Swansea University VPN using the PulseSecure software: https://vpn.swansea.ac.uk/
 
 Once on the VPN you can then ssh into the FlatSat host with:
 
