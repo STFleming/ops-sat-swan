@@ -22,6 +22,10 @@ The FPGA onboard OPS-SAT is an intel FPGA which means that a tool Quartus is req
 quartus
 ```
 
+## Base FPGA project
+
+A base Quartus/Qsys project for implementing a custom circuit in the FPGA fabric and configuring the processing system can be found [here](https://github.com/STFleming/oss_fpga_base).
+
 
 ### Rough notes
 
