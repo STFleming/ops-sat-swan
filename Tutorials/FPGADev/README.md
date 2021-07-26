@@ -23,6 +23,9 @@ The FPGA onboard OPS-SAT is an intel FPGA which means that a tool Quartus is req
 quartus
 ```
 
+## Base FPGA project
+
+A base Quartus/Qsys project for implementing a custom circuit in the FPGA fabric and configuring the processing system can be found [here](https://github.com/STFleming/oss_fpga_base).
 
 
 ### Rough notes
@@ -30,3 +33,5 @@ quartus
 Critical Links SoM board ID: 5CSE-L2-3Y8-RC
 
 Intel FPGA part: 5CSEBA2U23C8SN
+
+Critical Links setup guides: https://support.criticallink.com/redmine/projects/mityarm-5cs/wiki
