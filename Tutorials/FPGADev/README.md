@@ -13,6 +13,7 @@ The FPGA onboard OPS-SAT is an intel FPGA which means that a tool Quartus is req
 	echo "export PATH=\$PATH:\"/tools/Intel/20.01/quartus/bin\"" >> ~/.bashrc
 	echo "export PATH=\$PATH:\"/tools/Intel/20.01/quartus/sopc_builder/bin\"" >> ~/.bashrc
 	echo "export QSYS_ROOTDIR=\"/tools/Intel/20.01/quartus/sopc_builder/bin\"" >> ~/.bashrc
+	echo "export LM_LICENCE_FILE=\"/tools/lics/jl_temp_quartus_lic.dat\"" >> ~/.bashrc
 ```
 
 2. Logout and Log back in
